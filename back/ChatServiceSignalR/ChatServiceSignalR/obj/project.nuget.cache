@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8f4HBGE9RjSsdXh4HcmUBfb1UO81CMDYAfVsNLc6o7B/4Rf5ynjJrWvE7P4NtclnrIalywiOXML0PxGkE5ttdQ==",
+  "dgSpecHash": "5oCsUqo59xc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christophe\\source\\repos\\ChatServiceSignalR\\ChatServiceSignalR\\ChatServiceSignalR.csproj",
+  "projectFilePath": "C:\\Users\\Christophe\\source\\repos\\SignalR_ChatApp\\back\\ChatServiceSignalR\\ChatServiceSignalR\\ChatServiceSignalR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christophe\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.8\\microsoft.aspnetcore.connections.abstractions.8.0.8.nupkg.sha512",
     "C:\\Users\\Christophe\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\8.0.8\\microsoft.aspnetcore.http.connections.client.8.0.8.nupkg.sha512",
